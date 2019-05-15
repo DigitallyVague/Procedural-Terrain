@@ -313,7 +313,7 @@ MonoBehaviour:
   maxLOD: 0
   minLOD: 4
   viewer: {fileID: 25315177}
-  showChunks: 0
+  showChunks: 1
   lodColorGradient:
     serializedVersion: 2
     key0: {r: 0, g: 1, b: 0, a: 1}
