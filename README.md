@@ -5,3 +5,5 @@ A simple procedural terrain for Unity. https://unity3d.com/
 * Basic LOD system
 * No LOD blending
 * Not optimized
+
+![](Images/ProceduralTerrain01.png)
